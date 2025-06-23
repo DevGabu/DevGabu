@@ -1,18 +1,13 @@
-<div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHF6emN4NGJ4aGhkdG5lYzNnd3ZndWd4ZnNvYjQ5dnV2MGw2NWhzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZZXyNP4znYzyq6ztHe/giphy.gif"  />
-</div>
+#  Guilherme Pessoa
 
-###
+**`Software Engineer (Itaú Unibanco)`**
 
-<h2 align="center">My name is Felipe Ferreira and I will be the next technological innovator.</h2>
+I'm a software developer with a curiosity for learning and improving. I focus on writing clean and reusable code, I enjoy collaborating and sharing knowledge with my friends. Focused on my career in the banking sector, I also enjoy devising my own solutions for everyday challenges. In addition, I am committed to enhancing my skills on LeetCode to refine my problem-solving abilities.
 
-###
 
-<div align="center">
-</div>
+---
 
-###
-
+### 🧰 Languages and Tools
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="47" alt="html5 logo"  />
   <img width="19" />
