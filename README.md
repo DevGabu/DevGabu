@@ -1,8 +1,8 @@
-#  Guilherme Pessoa
+#  DevGabu
 
-**`Software Engineer (Itaú Unibanco)`**
+**`Web Developer`**
 
-I'm a software developer with a curiosity for learning and improving. I focus on writing clean and reusable code, I enjoy collaborating and sharing knowledge with my friends. Focused on my career in the banking sector, I also enjoy devising my own solutions for everyday challenges. In addition, I am committed to enhancing my skills on LeetCode to refine my problem-solving abilities.
+I'm a web developer in full development, and I'm going to get to the top of this shit!
 
 
 ---
